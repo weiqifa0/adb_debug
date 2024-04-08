@@ -3,4 +3,4 @@
 - 运行里面的WindowsAddAdbToSystem.bat
 - 执行成功
 
-  ![image](https://github.com/weiqifa0/adb_debug/assets/11375905/c610d512-cfb0-49a1-b25e-dc09b342ffc8)
+![image](https://github.com/weiqifa0/adb_debug/assets/11375905/9c59c0e8-7751-4ef0-97fe-79076f0a4fe2)
